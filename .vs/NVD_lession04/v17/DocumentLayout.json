@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K22CNT3_ASPNET\\NVD_lession04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\controllers\\nvdstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\controllers\\nvdstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\views\\nvdstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\views\\nvdstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\views\\nvdstudent\\ngonngurazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\views\\nvdstudent\\ngonngurazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\views\\nvdstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\views\\nvdstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\views\\nvdstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\views\\nvdstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\views\\nvdstudent\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\views\\nvdstudent\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|d:\\k22cnt3_aspnet\\nvd_lession04\\nvd_lession04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6599E5-BAD9-4F95-8FF5-F02439E2E893}|NVD_lession04\\NVD_lession04.csproj|solutionrelative:nvd_lession04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ketqua.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\Ketqua.cshtml",
+              "RelativeDocumentMoniker": "NVD_lession04\\Views\\NVDStudent\\Ketqua.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\Ketqua.cshtml",
+              "RelativeToolTip": "NVD_lession04\\Views\\NVDStudent\\Ketqua.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T13:19:29.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewStudent.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\AddNewStudent.cshtml",
+              "RelativeDocumentMoniker": "NVD_lession04\\Views\\NVDStudent\\AddNewStudent.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\AddNewStudent.cshtml",
+              "RelativeToolTip": "NVD_lession04\\Views\\NVDStudent\\AddNewStudent.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T12:59:45.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NgonNguRazor.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\NgonNguRazor.cshtml",
+              "RelativeDocumentMoniker": "NVD_lession04\\Views\\NVDStudent\\NgonNguRazor.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\NgonNguRazor.cshtml",
+              "RelativeToolTip": "NVD_lession04\\Views\\NVDStudent\\NgonNguRazor.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:38:18.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chiTiet.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\chiTiet.cshtml",
+              "RelativeDocumentMoniker": "NVD_lession04\\Views\\NVDStudent\\chiTiet.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\chiTiet.cshtml",
+              "RelativeToolTip": "NVD_lession04\\Views\\NVDStudent\\chiTiet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:21:09.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\Index.cshtml",
+              "RelativeDocumentMoniker": "NVD_lession04\\Views\\NVDStudent\\Index.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\NVDStudent\\Index.cshtml",
+              "RelativeToolTip": "NVD_lession04\\Views\\NVDStudent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:09:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NVDStudentController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Controllers\\NVDStudentController.cs",
+              "RelativeDocumentMoniker": "NVD_lession04\\Controllers\\NVDStudentController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Controllers\\NVDStudentController.cs",
+              "RelativeToolTip": "NVD_lession04\\Controllers\\NVDStudentController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvzkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:06:24.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NVD_lession04\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NVD_lession04\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:05:06.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NVD_lession04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K22CNT3_ASPNET\\NVD_lession04\\NVD_lession04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NVD_lession04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:04:21.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
